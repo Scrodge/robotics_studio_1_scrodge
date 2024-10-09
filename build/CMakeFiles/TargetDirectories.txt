@@ -1,0 +1,10 @@
+/home/student/ros2_ws/src/robotics_studio_1_scrodge/build/CMakeFiles/uninstall.dir
+/home/student/ros2_ws/src/robotics_studio_1_scrodge/build/CMakeFiles/robotics_studio_1_scrodge_uninstall.dir
+/home/student/ros2_ws/src/robotics_studio_1_scrodge/build/CMakeFiles/robotics_studio_1_scrodge_node.dir
+/home/student/ros2_ws/src/robotics_studio_1_scrodge/build/CMakeFiles/test.dir
+/home/student/ros2_ws/src/robotics_studio_1_scrodge/build/CMakeFiles/edit_cache.dir
+/home/student/ros2_ws/src/robotics_studio_1_scrodge/build/CMakeFiles/rebuild_cache.dir
+/home/student/ros2_ws/src/robotics_studio_1_scrodge/build/CMakeFiles/list_install_components.dir
+/home/student/ros2_ws/src/robotics_studio_1_scrodge/build/CMakeFiles/install.dir
+/home/student/ros2_ws/src/robotics_studio_1_scrodge/build/CMakeFiles/install/local.dir
+/home/student/ros2_ws/src/robotics_studio_1_scrodge/build/CMakeFiles/install/strip.dir

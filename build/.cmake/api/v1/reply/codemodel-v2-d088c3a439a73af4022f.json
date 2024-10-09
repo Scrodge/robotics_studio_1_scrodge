@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-bf4f132ae64fceb8b35b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "robotics_studio_1_scrodge",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "robotics_studio_1_scrodge_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotics_studio_1_scrodge_node-Debug-b65c07e079ee228d93f4.json",
+					"name" : "robotics_studio_1_scrodge_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robotics_studio_1_scrodge_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robotics_studio_1_scrodge_uninstall-Debug-63c953b4e3b4128e08cb.json",
+					"name" : "robotics_studio_1_scrodge_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Debug-1776327bd483e7c9eae1.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/student/ros2_ws/src/robotics_studio_1_scrodge/build",
+		"source" : "/home/student/ros2_ws/src/robotics_studio_1_scrodge"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
